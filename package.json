@@ -1,0 +1,25 @@
+{
+  "name": "challenge-calculator",
+  "version": "1.0.0",
+  "description": "Reto de calculadora básica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDGC/challenge-calculator.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "JohnDGC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnDGC/challenge-calculator/issues"
+  },
+  "homepage": "https://github.com/JohnDGC/challenge-calculator#readme",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  }
+}
